@@ -1,6 +1,6 @@
 # Hi 👋,I'm Gaurav Deshmukh
 
-## A Full Stack developer from India
+## A Full Stack Web developer from India
 
 
 
